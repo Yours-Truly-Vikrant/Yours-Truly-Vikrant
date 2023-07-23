@@ -1,7 +1,7 @@
 ![logo](https://avatars.githubusercontent.com/u/109059561?v=4)
 <h1 align="center">Hi 👋, I'm Nikam Vikrant Dipak</h1>
 <h3 align="center">Master of Statistics from Dhule, Maharashtra.</h3>
-<img align="right" alt="Statistics" widhth="400" src="https://cdn.dribbble.com/users/251013/screenshots/1811500/media/150d8630871957660aad36cc945e3409.gif">
+<img align="right" alt="Statisticians" width="400", src="https://cdn.dribbble.com/users/251013/screenshots/1811500/media/150d8630871957660aad36cc945e3409.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yours-truly-vikrant&label=Profile%20views&color=0e75b6&style=flat" alt="yours-truly-vikrant" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yours-truly-vikrant" alt="yours-truly-vikrant" /></a> </p>
@@ -16,7 +16,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yours_truly_vikrant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yours_truly_vikrant" height="30" width="40" /></a>
+<a href="https://twitter.com/nikamvikrant2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nikamvikrant2" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yours-truly-vikrant/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yours-truly-vikrant/" height="30" width="40" /></a>
+<a href="https://instagram.com/yours_truly_vikrant/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yours_truly_vikrant/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/vikrantnikam007?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vikrantnikam007?hr_r=1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
